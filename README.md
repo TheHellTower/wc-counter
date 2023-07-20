@@ -2,11 +2,16 @@
 
 > **Warning** The only official codes/examples are here or in one of the linked repositories if any and nowhere else.
 
-[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/wc-counter/badge)](https://www.codefactor.io/repository/github/thehelltower/wc-counter)
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/wc-counter/badge)](https://www.codefactor.io/repository/github/thehelltower/wc-counter) <a href="https://www.npmjs.com/package/@thehelltower%2Fwc-counter"><img src="https://img.shields.io/npm/v/@thehelltower%2Fwc-counter.svg?maxAge=3600" alt="npm version" /></a> <a href="https://www.npmjs.com/package/@thehelltower%2Fwc-counter"><img src="https://img.shields.io/npm/dt/@thehelltower%2Fwc-counter.svg?maxAge=3600" alt="npm downloads" /></a>
 
 ## 📜 What it does ?
 
 This is a [NPM Package](https://www.npmjs.com/) that allow you to know the number of words & chars are in a string or a file.
+
+## 📥 Installation
+
+[![npm package](https://nodei.co/npm/@thehelltower%2Fwc-counter.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thehelltower%2Fwc-counter)<br>
+`npm install --save reddit-meme-fetcher`
 
 ## 🎥 Preview
 
