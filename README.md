@@ -11,7 +11,7 @@ This is a [NPM Package](https://www.npmjs.com/) that allow you to know the numbe
 ## 📥 Installation
 
 [![npm package](https://nodei.co/npm/@thehelltower%2Fwc-counter.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thehelltower%2Fwc-counter)<br>
-`npm install --save reddit-meme-fetcher`
+`npm i --save @thehelltower/wc-counter`
 
 ## 🎥 Preview
 
