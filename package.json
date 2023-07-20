@@ -1,0 +1,24 @@
+{
+  "name": "@thehelltower/wc-counter",
+  "version": "1.0.0",
+  "description": "Words & Chars Counter",
+  "main": "src/THTMain.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHellTower/WC-counter.git"
+  },
+  "keywords": [
+    "Words",
+    "Chars",
+    "Counter"
+  ],
+  "author": {
+    "name": "TheHellTower",
+    "email": "thehelltower@tuta.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheHellTower/WC-counter/issues"
+  },
+  "homepage": "https://github.com/TheHellTower/WC-counter#readme"
+}
