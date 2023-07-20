@@ -1,6 +1,6 @@
 {
   "name": "@thehelltower/wc-counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Words & Chars Counter",
   "main": "src/THTMain.js",
   "repository": {
